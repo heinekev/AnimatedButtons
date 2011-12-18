@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Animated Buttons' target in the 'Animated Buttons' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

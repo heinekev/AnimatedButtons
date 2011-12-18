@@ -1,0 +1,183 @@
+TAnimated Buttons
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004A1650CC0000000000000110
+t1242976460
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Volumes/Removable HDD/Animated Buttons/Animated_ButtonsViewController.xib
+c000000004BA133E200000000000069BD
+t1268855778
+s27069
+
+N/Volumes/Removable HDD/Animated Buttons/Animated_Buttons_Prefix.pch
+c000000004BA0DD0500000000000000C9
+t1268833541
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.h
+c000000004BA0DD05000000000000020F
+t1268833541
+s527
+i<UIKit/UIKit.h>
+
+N/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+c000000004BA0DD0500000000000002CA
+t1268833541
+s714
+i"Animated_ButtonsAppDelegate.h"
+i"Animated_ButtonsViewController.h"
+
+N/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.h
+c000000004BA132B500000000000002A7
+t1268855477
+s679
+i<UIKit/UIKit.h>
+
+N/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.m
+c000000004BA138B30000000000000BD4
+t1268857011
+s3028
+i"Animated_ButtonsViewController.h"
+
+N/Volumes/Removable HDD/Animated Buttons/MainWindow.xib
+c000000004BA0DD0500000000000026AF
+t1268833541
+s9903
+
+N/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphoneos/Animated Buttons.build/Objects-normal/armv6/Animated Buttons.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphoneos/Animated Buttons.build/Objects-normal/armv6/Animated_ButtonsAppDelegate.o
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphoneos/Animated Buttons.build/Objects-normal/armv6/Animated_ButtonsViewController.o
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphoneos/Animated Buttons.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app.dSYM
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/Animated Buttons
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/Animated_ButtonsViewController.nib
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/Info.plist
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/MainWindow.nib
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/PkgInfo
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/ResourceRules.plist
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/main.m
+c000000004BA0DD05000000000000016C
+t1268833541
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gutqybnnpiksdogwnmkbwijreswa/Animated_Buttons_Prefix.pch.gch
+t2
+s0
+
+NAnimated_Buttons-Info.plist
+c000000004BA0DD05000000000000038D
+t1268833541
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290813304#290813304#0(145"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Animated-Buttons' could not be found1(4@137"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Animated-Buttons' could not be found290813304#18446744073709551615#0#0(1@0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphoneos/Animated Buttons.build/Objects-normal/armv6/Animated_ButtonsAppDelegate.o" "/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Animated Buttons.build/Debug-iphoneos/Animated Buttons.build/Objects-normal/armv6/Animated_ButtonsViewController.o" "/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Animated Buttons.build/Debug-iphoneos/Animated Buttons.build/Objects-normal/armv6/main.o" "/Volumes/Removable HDD/Animated Buttons/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Volumes/Removable HDD/Animated Buttons/Animated_ButtonsViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Removable HDD/Animated Buttons/MainWindow.xib"
+r0
+
+CCpResource "build/Debug-iphoneos/Animated Buttons.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app.dSYM" "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/Animated Buttons"
+r0
+
+CLd "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/Animated Buttons" normal armv6
+r0
+
+CProcessInfoPlistFile "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app/Info.plist" Animated_Buttons-Info.plist
+r0
+
+CProcessPCH /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gutqybnnpiksdogwnmkbwijreswa/Animated_Buttons_Prefix.pch.gch Animated_Buttons_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphoneos/Animated Buttons.app"
+r0
+

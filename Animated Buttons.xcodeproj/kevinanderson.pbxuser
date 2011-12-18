@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Animated Buttons */ = {
+		activeExec = 0;
+		executables = (
+			E86D40DE11511486003D5C72 /* Animated Buttons */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Animated_ButtonsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 556}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRange = "{0, 679}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Animated_ButtonsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 1885}}";
+			sepNavSelRange = "{909, 0}";
+			sepNavVisRange = "{601, 956}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E86D40DE11511486003D5C72 /* Animated Buttons */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Animated Buttons */;
+		codeSenseManager = E86D40EF1151148E003D5C72 /* Code sense */;
+		executables = (
+			E86D40DE11511486003D5C72 /* Animated Buttons */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					565,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290544858;
+			PBXWorkspaceStateSaveDate = 290544858;
+		};
+		perUserProjectItems = {
+			E8D34ABA1151705000B26B57 /* PBXTextBookmark */ = E8D34ABA1151705000B26B57 /* PBXTextBookmark */;
+			E8D34ABB1151705000B26B57 /* PBXTextBookmark */ = E8D34ABB1151705000B26B57 /* PBXTextBookmark */;
+			E8D34ABC1151705000B26B57 /* PBXTextBookmark */ = E8D34ABC1151705000B26B57 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E86D40EE1151148E003D5C72 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E86D40DE11511486003D5C72 /* Animated Buttons */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Animated Buttons";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E86D40EE1151148E003D5C72 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E86D40EF1151148E003D5C72 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E8D34ABA1151705000B26B57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Animated_ButtonsViewController.h */;
+		name = "Animated_ButtonsViewController.h: 12";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 0;
+	};
+	E8D34ABB1151705000B26B57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Animated_ButtonsViewController.m */;
+		name = "Animated_ButtonsViewController.m: 63";
+		rLen = 0;
+		rLoc = 1272;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 563;
+	};
+	E8D34ABC1151705000B26B57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Animated_ButtonsViewController.m */;
+		name = "Animated_ButtonsViewController.m: 48";
+		rLen = 0;
+		rLoc = 909;
+		rType = 0;
+		vrLen = 956;
+		vrLoc = 601;
+	};
+}

@@ -1,0 +1,51 @@
+TAnimated Buttons
+v7
+r1
+
+N/Volumes/Removable HDD/Animated Buttons/Animated_ButtonsViewController.xib
+c000000004BA133E200000000000069BD
+t1268855778
+s27069
+
+N/Volumes/Removable HDD/Animated Buttons/MainWindow.xib
+c000000004BA0DD0500000000000026AF
+t1268833541
+s9903
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug/Animated Buttons.app
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug/Animated Buttons.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug/Animated Buttons.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug/Animated Buttons.app/Contents/Resources/Animated_ButtonsViewController.nib
+t2
+s0
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug/Animated Buttons.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NAnimated_Buttons-Info.plist
+c000000004BA0DD05000000000000038D
+t1268833541
+s909
+
+CCompileXIB "/Volumes/Removable HDD/Animated Buttons/Animated_ButtonsViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Removable HDD/Animated Buttons/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Volumes/Removable HDD/Animated Buttons/build/Debug/Animated Buttons.app/Contents/Info.plist" Animated_Buttons-Info.plist
+r0
+
+CTouch "/Volumes/Removable HDD/Animated Buttons/build/Debug/Animated Buttons.app"
+r0
+

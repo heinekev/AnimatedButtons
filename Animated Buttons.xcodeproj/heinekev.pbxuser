@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Animated_ButtonsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {898, 482}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 527}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Animated_ButtonsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {898, 482}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 714}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Animated Buttons */ = {
+		activeExec = 0;
+		executables = (
+			DC8B96ED11557575006B929A /* Animated Buttons */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Animated_ButtonsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {898, 482}}";
+			sepNavSelRange = "{467, 152}";
+			sepNavVisRange = "{0, 679}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Animated_ButtonsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {898, 1781}}";
+			sepNavSelRange = "{748, 0}";
+			sepNavVisRange = "{161, 715}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DC8B96ED11557575006B929A /* Animated Buttons */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Animated Buttons */;
+		codeSenseManager = DC8B970A115575A8006B929A /* Code sense */;
+		executables = (
+			DC8B96ED11557575006B929A /* Animated Buttons */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					720,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304151723;
+			PBXWorkspaceStateSaveDate = 304151723;
+		};
+		perUserProjectItems = {
+			DC010C49119BE4BF00726883 /* PBXTextBookmark */ = DC010C49119BE4BF00726883 /* PBXTextBookmark */;
+			DC010C4A119BE4BF00726883 /* PBXTextBookmark */ = DC010C4A119BE4BF00726883 /* PBXTextBookmark */;
+			DC010C4B119BE4BF00726883 /* PBXTextBookmark */ = DC010C4B119BE4BF00726883 /* PBXTextBookmark */;
+			DC010C4D119BE4BF00726883 /* PBXTextBookmark */ = DC010C4D119BE4BF00726883 /* PBXTextBookmark */;
+			DC57DEFD1220FCC4008FAB36 /* PBXTextBookmark */ = DC57DEFD1220FCC4008FAB36 /* PBXTextBookmark */;
+			DC8B971B115575B5006B929A /* PlistBookmark */ = DC8B971B115575B5006B929A /* PlistBookmark */;
+		};
+		sourceControlManager = DC8B9709115575A8006B929A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DC010C49119BE4BF00726883 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Animated_ButtonsAppDelegate.h */;
+		name = "Animated_ButtonsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 527;
+		vrLoc = 0;
+	};
+	DC010C4A119BE4BF00726883 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Animated_ButtonsAppDelegate.m */;
+		name = "Animated_ButtonsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 714;
+		vrLoc = 0;
+	};
+	DC010C4B119BE4BF00726883 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Animated_ButtonsViewController.h */;
+		name = "Animated_ButtonsViewController.h: 23";
+		rLen = 152;
+		rLoc = 467;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 0;
+	};
+	DC010C4D119BE4BF00726883 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Animated_ButtonsViewController.m */;
+		name = "Animated_ButtonsViewController.m: 37";
+		rLen = 0;
+		rLoc = 748;
+		rType = 0;
+		vrLen = 874;
+		vrLoc = 1340;
+	};
+	DC57DEFD1220FCC4008FAB36 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Animated_ButtonsViewController.m */;
+		name = "Animated_ButtonsViewController.m: 37";
+		rLen = 0;
+		rLoc = 748;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 161;
+	};
+	DC8B96ED11557575006B929A /* Animated Buttons */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Animated Buttons";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DC8B9709115575A8006B929A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DC8B970A115575A8006B929A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DC8B971B115575B5006B929A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Animated_Buttons-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Volumes/Removable HDD/Animated Buttons/Animated_Buttons-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}

@@ -1,0 +1,260 @@
+TAnimated Buttons
+v7
+r0
+t290528522.489737
+cCheck dependencies
+cProcessInfoPlistFile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist" Animated_Buttons-Info.plist
+cCompileXIB "/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib"
+cCompileXIB "/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib"
+cProcessPCH /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch Animated_Buttons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o" "/Users/kevinanderson/Documents/Animated Buttons/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o" "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o" "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" normal i386
+cGenerateDSYMFile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"
+cTouch "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"
+
+N/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib
+c000000004BA0E56700000000000073D2
+t1268835687
+s29650
+
+N/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons_Prefix.pch
+c000000004BA0DD0500000000000000C9
+t1268833541
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.h
+c000000004BA0DD05000000000000020F
+t1268833541
+s527
+i<UIKit/UIKit.h>
+
+N/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+c000000004BA0DD0500000000000002CA
+t1268833541
+s714
+i"Animated_ButtonsAppDelegate.h"
+i"Animated_ButtonsViewController.h"
+
+N/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.h
+c000000004BA0E557000000000000020C
+t1268835671
+s524
+i<UIKit/UIKit.h>
+
+N/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m
+c000000004BA0E5410000000000000720
+t1268835649
+s1824
+i"Animated_ButtonsViewController.h"
+
+N/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib
+c000000004BA0DD0500000000000026AF
+t1268833541
+s9903
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated Buttons.LinkFileList
+c000000004BA0E58900000000000001F0
+t1268835721
+s496
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o
+t1268835722
+s38548
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o
+t1268835722
+s33012
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o
+t1268835722
+s5980
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app
+t1268835722
+s238
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM
+t1268835722
+s102
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+t1268835722
+s20560
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated_ButtonsViewController.nib
+t1268835721
+s4209
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist
+t1268835721
+s635
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/MainWindow.nib
+t1268835721
+s1528
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/PkgInfo
+t1268835721
+s8
+
+N/Users/kevinanderson/Documents/Animated Buttons/main.m
+c000000004BA0DD05000000000000016C
+t1268833541
+s364
+i<UIKit/UIKit.h>
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch
+t1268835722
+s13026768
+
+NAnimated_Buttons-Info.plist
+c000000004BA0DD05000000000000038D
+t1268833541
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290528521#290528521#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o" "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290528522.347737
+e290528522.412914
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o
+x/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m290528522#290528522#0(0"0(0#0#85"/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m4300911832#2230"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch -c "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" -o "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o" "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290528522.404260
+e290528522.455875
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o
+x/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m290528522#290528522#0(0"0(0#0#88"/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m4300911832#2236"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch -c "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m" -o "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o" "/Users/kevinanderson/Documents/Animated Buttons/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290528522.346875
+e290528522.404175
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o
+x/Users/kevinanderson/Documents/Animated Buttons/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/kevinanderson/Documents/Animated Buttons/main.m290528522#290528522#0(0"0(0#0#54"/Users/kevinanderson/Documents/Animated Buttons/main.m4300911832#2176"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch -c "/Users/kevinanderson/Documents/Animated Buttons/main.m" -o "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib"
+s290528521.518703
+e290528521.852209
+r1
+xCompileXIB
+x/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib:9: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Button 3)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'.
+o/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib:8: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Button 2)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'.
+o/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib:10: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Button 1)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'.
+lSLF07#2@45"CompileXIB Animated_ButtonsViewController.xib290528521#290528521#0(939"/* com.apple.ibtool.document.warnings *//Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib:9: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Button 3)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'./Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib:8: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Button 2)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'./Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib:10: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (Button 1)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'.3(22@203"The 'Touch Up Inside' event of 'Rounded Rect Button (Button 3)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'.290528521#18446744073709551615#0#0(6@82"/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib290528487#9#0#9#0#0"0(22@203"The 'Touch Up Inside' event of 'Rounded Rect Button (Button 2)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'.290528521#18446744073709551615#0#0(6@82"/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib290528487#8#0#8#0#0"0(22@203"The 'Touch Up Inside' event of 'Rounded Rect Button (Button 1)' is connected to the 'updateLabels' selector of 'File's Owner', but 'updateLabels' is no longer defined on 'Animated_ButtonsViewController'.290528521#18446744073709551615#0#0(6@82"/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib290528487#10#0#10#0#0"0(0#0#82"/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib4300911832#576"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated_ButtonsViewController.nib" "/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib"0#
+
+CCompileXIB "/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib"
+s290528521.516492
+e290528521.762259
+r1
+xCompileXIB
+x/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290528521#290528521#0(0"0(0#0#62"/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib4300911832#536"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/MainWindow.nib" "/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"
+s290528522.473262
+e290528522.487361
+r1
+xGenerateDSYMFile
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+lSLF07#2@140"GenerateDSYMFile "build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"290528522#290528522#0(0"0(0#0#113"/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons4300911832#455"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/usr/bin/dsymutil "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" -o "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM"0#
+
+CLd "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" normal i386
+s290528522.455956
+e290528522.473180
+r1
+xLd
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+xnormal
+xi386
+lSLF07#2@118"Link /Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons290528522#290528522#0(0"0(0#0#0"4300911832#980"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" -filelist "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated Buttons.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"0#
+
+CProcessInfoPlistFile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist" Animated_Buttons-Info.plist
+s290528521.503242
+e290528521.516415
+r1
+xProcessInfoPlistFile
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist
+xAnimated_Buttons-Info.plist
+lSLF07#2@35"Process Animated_Buttons-Info.plist290528521#290528521#0(0"0(0#0#75"/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons-Info.plist4300911832#547"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Animated_Buttons-Info.plist -genpkginfo "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist"0#
+
+CProcessPCH /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch Animated_Buttons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290528521.852319
+e290528522.346790
+r1
+xProcessPCH
+x/var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch
+xAnimated_Buttons_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile Animated_Buttons_Prefix.pch290528521#290528522#0(0"0(0#0#75"/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons_Prefix.pch4300911832#2048"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -c "/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons_Prefix.pch" -o /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch0#
+
+CTouch "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"
+s290528522.487433
+e290528522.489705
+r1
+xTouch
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app
+lSLF07#2@102"Touch /Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app290528522#290528522#0(0"0(0#0#0"4300911832#317"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"0#
+

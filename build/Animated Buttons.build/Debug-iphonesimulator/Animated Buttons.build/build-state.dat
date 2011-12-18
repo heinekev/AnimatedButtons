@@ -1,0 +1,709 @@
+TAnimated Buttons
+v7
+r0
+t295424272.488742
+cCheck dependencies
+cProcessInfoPlistFile "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist" Animated_Buttons-Info.plist
+cCompileXIB "/Users/heinekev/Documents/Animated Buttons/MainWindow.xib"
+cCompileXIB "/Users/heinekev/Documents/Animated Buttons/Animated_ButtonsViewController.xib"
+cProcessPCH /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gxunkbsuuhisveekwgzbfdqcnkib/Animated_Buttons_Prefix.pch.gch Animated_Buttons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o" "/Users/heinekev/Documents/Animated Buttons/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o" "/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o" "/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" normal i386
+cGenerateDSYMFile "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"
+cTouch "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A9C99F200000000000000EE
+t1251777010
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B99046900000000000000EE
+t1268319337
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/heinekev/Documents/Animated Buttons/Animated_ButtonsViewController.xib
+c000000004BA133E200000000000069BD
+t1268855778
+s27069
+
+N/Users/heinekev/Documents/Animated Buttons/Animated_Buttons_Prefix.pch
+c000000004BA0DD0500000000000000C9
+t1268833541
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.h
+c000000004BA0DD05000000000000020F
+t1268833541
+s527
+i<UIKit/UIKit.h>
+
+N/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+c000000004BA0DD0500000000000002CA
+t1268833541
+s714
+i"Animated_ButtonsAppDelegate.h"
+i"Animated_ButtonsViewController.h"
+
+N/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.h
+c000000004BA132B500000000000002A7
+t1268855477
+s679
+i<UIKit/UIKit.h>
+
+N/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m
+c000000004BEB8D730000000000000BD1
+t1273728371
+s3025
+i"Animated_ButtonsViewController.h"
+
+N/Users/heinekev/Documents/Animated Buttons/MainWindow.xib
+c000000004BA0DD0500000000000026AF
+t1268833541
+s9903
+
+N/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated Buttons.LinkFileList
+c000000004BEB85F400000000000001E1
+t1273726452
+s481
+
+N/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o
+t1273726452
+s38232
+
+N/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o
+t1273728371
+s37608
+
+N/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o
+t1273726452
+s5952
+
+N/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app
+t1273728371
+s238
+
+N/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM
+t1273728371
+s102
+
+N/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+t1273728371
+s21572
+
+N/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated_ButtonsViewController.nib
+t1268855785
+s4054
+
+N/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist
+t1270148179
+s603
+
+N/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/MainWindow.nib
+t1268852480
+s1513
+
+N/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/PkgInfo
+t1270148179
+s8
+
+N/Users/heinekev/Documents/Animated Buttons/main.m
+c000000004BA0DD05000000000000016C
+t1268833541
+s364
+i<UIKit/UIKit.h>
+
+N/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib
+c000000004BA133E200000000000069BD
+t1268855778
+s27069
+
+N/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons_Prefix.pch
+c000000004BA0DD0500000000000000C9
+t1268833541
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.h
+c000000004BA0DD05000000000000020F
+t1268833541
+s527
+i<UIKit/UIKit.h>
+
+N/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+c000000004BA0DD0500000000000002CA
+t1268833541
+s714
+i"Animated_ButtonsAppDelegate.h"
+i"Animated_ButtonsViewController.h"
+
+N/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.h
+c000000004BA132B500000000000002A7
+t1268855477
+s679
+i<UIKit/UIKit.h>
+
+N/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m
+c000000004BA138B30000000000000BD4
+t1268857011
+s3028
+i"Animated_ButtonsViewController.h"
+
+N/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib
+c000000004BA0DD0500000000000026AF
+t1268833541
+s9903
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated Buttons.LinkFileList
+c000000004BA0E58900000000000001F0
+t1268835721
+s496
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o
+t1268855620
+s38588
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o
+t1268857012
+s37552
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o
+t1268852481
+s5976
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app
+t1268857012
+s238
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM
+t1268857012
+s102
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+t1268857012
+s21604
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated_ButtonsViewController.nib
+t1268855785
+s4054
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist
+t1268852480
+s606
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/MainWindow.nib
+t1268852480
+s1513
+
+N/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/PkgInfo
+t1268852480
+s8
+
+N/Users/kevinanderson/Documents/Animated Buttons/main.m
+c000000004BA0DD05000000000000016C
+t1268833541
+s364
+i<UIKit/UIKit.h>
+
+N/Volumes/Removable HDD/Animated Buttons/Animated_ButtonsViewController.xib
+c000000004BA133E200000000000069BD
+t1268855778
+s27069
+
+N/Volumes/Removable HDD/Animated Buttons/Animated_Buttons_Prefix.pch
+c000000004BA0DD0500000000000000C9
+t1268833541
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.h
+c000000004BA0DD05000000000000020F
+t1268833541
+s527
+i<UIKit/UIKit.h>
+
+N/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+c000000004BA0DD0500000000000002CA
+t1268833541
+s714
+i"Animated_ButtonsAppDelegate.h"
+i"Animated_ButtonsViewController.h"
+
+N/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.h
+c000000004BA132B500000000000002A7
+t1268855477
+s679
+i<UIKit/UIKit.h>
+
+N/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.m
+c000000004BA53E4A0000000000000BD3
+t1269120586
+s3027
+i"Animated_ButtonsViewController.h"
+
+N/Volumes/Removable HDD/Animated Buttons/MainWindow.xib
+c000000004BA0DD0500000000000026AF
+t1268833541
+s9903
+
+N/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated Buttons.LinkFileList
+c000000004BA53E3400000000000001D8
+t1269120564
+s472
+
+N/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o
+t1269120565
+s38228
+
+N/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o
+t1269120588
+s37320
+
+N/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o
+t1269120565
+s5944
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app
+t1269120588
+s238
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM
+t1269120588
+s102
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+t1269120588
+s21556
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated_ButtonsViewController.nib
+t1268855785
+s4054
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist
+t1269120564
+s601
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/MainWindow.nib
+t1268852480
+s1513
+
+N/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/PkgInfo
+t1269120564
+s8
+
+N/Volumes/Removable HDD/Animated Buttons/main.m
+c000000004BA0DD05000000000000016C
+t1268833541
+s364
+i<UIKit/UIKit.h>
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch
+t1268835722
+s13026768
+
+N/var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-geowoasrejyrdcfwcsocijhygern/Animated_Buttons_Prefix.pch.gch
+t1268852480
+s13034960
+
+N/var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-ferpmfttkpewiobyhtzpobjhvlvu/Animated_Buttons_Prefix.pch.gch
+t1269120564
+s12957072
+
+N/var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gxunkbsuuhisveekwgzbfdqcnkib/Animated_Buttons_Prefix.pch.gch
+t1273726452
+s12957072
+
+NAnimated_Buttons-Info.plist
+c000000004BA53E07000000000000038A
+t1269120519
+s906
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295424272#295424272#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o" "/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295419252.569463
+e295419252.712688
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o
+x/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m295419252#295419252#0(0"0(0#0#80"/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m4300882208#2157"    cd "/Users/heinekev/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gxunkbsuuhisveekwgzbfdqcnkib/Animated_Buttons_Prefix.pch -c "/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" -o "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o" "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290548420.238352
+e290548420.318800
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o
+x/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m290548420#290548420#0(0"0(0#0#85"/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m4300885448#2214"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-geowoasrejyrdcfwcsocijhygern/Animated_Buttons_Prefix.pch -c "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" -o "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o" "/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290813364.947832
+e290813365.132333
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o
+x/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m290813364#290813365#0(0"0(0#0#77"/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m4300882208#2124"    cd "/Volumes/Removable HDD/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator" "-I/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-ferpmfttkpewiobyhtzpobjhvlvu/Animated_Buttons_Prefix.pch -c "/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsAppDelegate.m" -o "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsAppDelegate.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o" "/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295421171.212275
+e295421171.331632
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o
+x/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m295421171#295421171#0(0"0(0#0#83"/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m4764918792665000960#2163"    cd "/Users/heinekev/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gxunkbsuuhisveekwgzbfdqcnkib/Animated_Buttons_Prefix.pch -c "/Users/heinekev/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m" -o "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o" "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290549812.312216
+e290549812.420222
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o
+x/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m290549812#290549812#0(0"0(0#0#88"/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m4300885448#2220"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-geowoasrejyrdcfwcsocijhygern/Animated_Buttons_Prefix.pch -c "/Users/kevinanderson/Documents/Animated Buttons/Classes/Animated_ButtonsViewController.m" -o "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o" "/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290813388.104126
+e290813388.205528
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o
+x/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.m290813388#290813388#0(0"0(0#0#80"/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.m4300882208#2130"    cd "/Volumes/Removable HDD/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator" "-I/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-ferpmfttkpewiobyhtzpobjhvlvu/Animated_Buttons_Prefix.pch -c "/Volumes/Removable HDD/Animated Buttons/Classes/Animated_ButtonsViewController.m" -o "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated_ButtonsViewController.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o" "/Users/heinekev/Documents/Animated Buttons/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295419252.568679
+e295419252.706519
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o
+x/Users/heinekev/Documents/Animated Buttons/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/heinekev/Documents/Animated Buttons/main.m295419252#295419252#0(0"0(0#0#49"/Users/heinekev/Documents/Animated Buttons/main.m4300882208#2103"    cd "/Users/heinekev/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gxunkbsuuhisveekwgzbfdqcnkib/Animated_Buttons_Prefix.pch -c "/Users/heinekev/Documents/Animated Buttons/main.m" -o "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o" "/Users/kevinanderson/Documents/Animated Buttons/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290545280.911464
+e290545281.031724
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o
+x/Users/kevinanderson/Documents/Animated Buttons/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/kevinanderson/Documents/Animated Buttons/main.m290545280#290545281#0(0"0(0#0#54"/Users/kevinanderson/Documents/Animated Buttons/main.m4300885448#2160"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-geowoasrejyrdcfwcsocijhygern/Animated_Buttons_Prefix.pch -c "/Users/kevinanderson/Documents/Animated Buttons/main.m" -o "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o" "/Volumes/Removable HDD/Animated Buttons/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290813364.947003
+e290813365.131040
+r1
+xCompileC
+xbuild/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o
+x/Volumes/Removable HDD/Animated Buttons/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Volumes/Removable HDD/Animated Buttons/main.m290813364#290813365#0(0"0(0#0#46"/Volumes/Removable HDD/Animated Buttons/main.m4300882208#2070"    cd "/Volumes/Removable HDD/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator" "-I/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -include /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-ferpmfttkpewiobyhtzpobjhvlvu/Animated_Buttons_Prefix.pch -c "/Volumes/Removable HDD/Animated Buttons/main.m" -o "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/heinekev/Documents/Animated Buttons/Animated_ButtonsViewController.xib"
+r0
+
+CCompileXIB "/Users/heinekev/Documents/Animated Buttons/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib"
+s290548585.521661
+e290548585.841781
+r1
+xCompileXIB
+x/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib
+lSLF07#2@45"CompileXIB Animated_ButtonsViewController.xib290548585#290548585#0(0"0(0#0#82"/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib4300885448#564"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated_ButtonsViewController.nib" "/Users/kevinanderson/Documents/Animated Buttons/Animated_ButtonsViewController.xib"0#
+
+CCompileXIB "/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib"
+s290545280.079031
+e290545280.320160
+r1
+xCompileXIB
+x/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290545280#290545280#0(0"0(0#0#62"/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib4300885448#524"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/MainWindow.nib" "/Users/kevinanderson/Documents/Animated Buttons/MainWindow.xib"0#
+
+CCompileXIB "/Volumes/Removable HDD/Animated Buttons/Animated_ButtonsViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Removable HDD/Animated Buttons/MainWindow.xib"
+r0
+
+CGenerateDSYMFile "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"
+s295421171.376871
+e295421171.405610
+r1
+xGenerateDSYMFile
+x/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM
+x/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+lSLF07#2@140"GenerateDSYMFile "build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"295421171#295421171#0(0"0(0#0#108"/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons4300882208#428"    cd "/Users/heinekev/Documents/Animated Buttons"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" -o "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"
+s290549812.435945
+e290549812.454378
+r1
+xGenerateDSYMFile
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+lSLF07#2@140"GenerateDSYMFile "build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"290549812#290549812#0(0"0(0#0#113"/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons4300885448#443"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" -o "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM"0#
+
+CGenerateDSYMFile "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"
+s290813388.260435
+e290813388.271068
+r1
+xGenerateDSYMFile
+x/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM
+x/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+lSLF07#2@140"GenerateDSYMFile "build/Debug-iphonesimulator/Animated Buttons.app.dSYM" "build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"290813388#290813388#0(0"0(0#0#105"/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons4300882208#419"    cd "/Volumes/Removable HDD/Animated Buttons"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" -o "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app.dSYM"0#
+
+CLd "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" normal i386
+s295421171.331713
+e295421171.376768
+r1
+xLd
+x/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+xnormal
+xi386
+lSLF07#2@113"Link /Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons295421171#295421171#0(0"0(0#0#0"4300882208#937"    cd "/Users/heinekev/Documents/Animated Buttons"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator" "-F/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator" -filelist "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated Buttons.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"0#
+
+CLd "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" normal i386
+s290549812.420303
+e290549812.435864
+r1
+xLd
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+xnormal
+xi386
+lSLF07#2@118"Link /Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons290549812#290549812#0(0"0(0#0#0"4300885448#964"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" -filelist "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated Buttons.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"0#
+
+CLd "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons" normal i386
+s290813388.205602
+e290813388.260350
+r1
+xLd
+x/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons
+xnormal
+xi386
+lSLF07#2@110"Link /Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons290813388#290813388#0(0"0(0#0#0"4300882208#922"    cd "/Volumes/Removable HDD/Animated Buttons"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator" "-F/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator" -filelist "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Objects-normal/i386/Animated Buttons.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Animated Buttons"0#
+
+CProcessInfoPlistFile "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist" Animated_Buttons-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist" Animated_Buttons-Info.plist
+s290545280.059022
+e290545280.078947
+r1
+xProcessInfoPlistFile
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist
+xAnimated_Buttons-Info.plist
+lSLF07#2@35"Process Animated_Buttons-Info.plist290545280#290545280#0(0"0(0#0#75"/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons-Info.plist4764918792665000960#539"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Animated_Buttons-Info.plist -genpkginfo "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist" Animated_Buttons-Info.plist
+s290813364.404626
+e290813364.409924
+r1
+xProcessInfoPlistFile
+x/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist
+xAnimated_Buttons-Info.plist
+lSLF07#2@35"Process Animated_Buttons-Info.plist290813364#290813364#0(0"0(0#0#67"/Volumes/Removable HDD/Animated Buttons/Animated_Buttons-Info.plist4300882208#515"    cd "/Volumes/Removable HDD/Animated Buttons"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Animated_Buttons-Info.plist -genpkginfo "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app/Info.plist"0#
+
+CProcessPCH /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch Animated_Buttons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290528521.852319
+e290528522.346790
+r1
+xProcessPCH
+x/var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch
+xAnimated_Buttons_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile Animated_Buttons_Prefix.pch290528521#290528522#0(0"0(0#0#75"/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons_Prefix.pch4300911832#2048"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iPadDeveloper/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /iPadDeveloper/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -c "/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons_Prefix.pch" -o /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-abpjidnfygsugsajemcgkuzxcjmm/Animated_Buttons_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-geowoasrejyrdcfwcsocijhygern/Animated_Buttons_Prefix.pch.gch Animated_Buttons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290545280.387396
+e290545280.911355
+r1
+xProcessPCH
+x/var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-geowoasrejyrdcfwcsocijhygern/Animated_Buttons_Prefix.pch.gch
+xAnimated_Buttons_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile Animated_Buttons_Prefix.pch290545280#290545280#0(0"0(0#0#75"/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons_Prefix.pch4300885448#2032"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/kevinanderson/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -c "/Users/kevinanderson/Documents/Animated Buttons/Animated_Buttons_Prefix.pch" -o /var/folders/01/012PyZDDFIWuY8OZZBZ1Kk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-geowoasrejyrdcfwcsocijhygern/Animated_Buttons_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-ferpmfttkpewiobyhtzpobjhvlvu/Animated_Buttons_Prefix.pch.gch Animated_Buttons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290813364.410121
+e290813364.946912
+r1
+xProcessPCH
+x/var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-ferpmfttkpewiobyhtzpobjhvlvu/Animated_Buttons_Prefix.pch.gch
+xAnimated_Buttons_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile Animated_Buttons_Prefix.pch290813364#290813364#0(0"0(0#0#67"/Volumes/Removable HDD/Animated Buttons/Animated_Buttons_Prefix.pch4300882208#1950"    cd "/Volumes/Removable HDD/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator" "-I/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Volumes/Removable HDD/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -c "/Volumes/Removable HDD/Animated Buttons/Animated_Buttons_Prefix.pch" -o /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-ferpmfttkpewiobyhtzpobjhvlvu/Animated_Buttons_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gxunkbsuuhisveekwgzbfdqcnkib/Animated_Buttons_Prefix.pch.gch Animated_Buttons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295419252.034705
+e295419252.568587
+r1
+xProcessPCH
+x/var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gxunkbsuuhisveekwgzbfdqcnkib/Animated_Buttons_Prefix.pch.gch
+xAnimated_Buttons_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile Animated_Buttons_Prefix.pch295419252#295419252#0(0"0(0#0#70"/Users/heinekev/Documents/Animated Buttons/Animated_Buttons_Prefix.pch7944683390545257472#1980"    cd "/Users/heinekev/Documents/Animated Buttons"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-generated-files.hmap" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-own-target-headers.hmap" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-all-target-headers.hmap" -iquote "/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/Animated Buttons-project-headers.hmap" "-F/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator" "-I/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/include" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources/i386" "-I/Users/heinekev/Documents/Animated Buttons/build/Animated Buttons.build/Debug-iphonesimulator/Animated Buttons.build/DerivedSources" -c "/Users/heinekev/Documents/Animated Buttons/Animated_Buttons_Prefix.pch" -o /var/folders/jO/jOWOuaLVH2y6Gtk-NOcWR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animated_Buttons_Prefix-gxunkbsuuhisveekwgzbfdqcnkib/Animated_Buttons_Prefix.pch.gch0#
+
+CTouch "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"
+s295421171.405927
+e295421171.425172
+r1
+xTouch
+x/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app
+lSLF07#2@97"Touch /Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app295421171#295421171#0(0"0(0#0#0"4300882208#299"    cd "/Users/heinekev/Documents/Animated Buttons"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/heinekev/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"0#
+
+CTouch "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"
+s290549812.454460
+e290549812.457165
+r1
+xTouch
+x/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app
+lSLF07#2@102"Touch /Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app290549812#290549812#0(0"0(0#0#0"4300885448#309"    cd "/Users/kevinanderson/Documents/Animated Buttons"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/kevinanderson/Documents/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"0#
+
+CTouch "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"
+s290813388.271141
+e290813388.272945
+r1
+xTouch
+x/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app
+lSLF07#2@94"Touch /Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app290813388#290813388#0(0"0(0#0#0"4300882208#293"    cd "/Volumes/Removable HDD/Animated Buttons"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Removable HDD/Animated Buttons/build/Debug-iphonesimulator/Animated Buttons.app"0#
+
